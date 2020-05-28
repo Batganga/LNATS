@@ -20,4 +20,4 @@ Some of the most frequently asked questions about the project so far have been:
 
 4) Focusing on the global economy as a whole allows the platform to cover a wide range of different topics, how do you plan to manage the workload? 
 
-5) How are you going...
+5) How are you going to distribute publications, manifests and market reports?
