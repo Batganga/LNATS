@@ -10,7 +10,7 @@ Libra News and Talks was created and is headed by a member of the Sydney Crypto 
 
 By engaging in the Bitfwd GitCoin campaign, LNATS has been given the opportunity to receive the benefits of regular communications and weekly conference calls to have, and be asked questions about the Libra News and Talks online news service. From the start of the campaign, every project has shared a comment board, see here: ( ). Along with transcripts from each conference call see here: ( ).
 
-Some of the most frequently asked questions about the project so far have been: 
+Some of the most Frequently Asked Questions about the project so far have been: 
 
 1) What is the main subject of focus other than The Libra Blockchain?
 
