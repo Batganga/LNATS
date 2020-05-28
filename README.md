@@ -22,4 +22,4 @@ Libra News and Talks opertaions have been active since September 2019 on the fol
 
 (The accounts linked above are subject to change and should not in anyway be considered a final product or service from Libra News and Talks.)
 
-By using three different accounts, the project has been able to gain access to potential marketing expenses and the service design from a range of different angles. Which in return has allowed LNATS to develop targeted pencentages of growth through general information hand outs and basic functionality, too measure the initial time consumption of expanding the projects base layer with regular updates, questions and serveys being given to the community.
+By using three different accounts, the project has been able to gain access to potential marketing expenses and the service design from a range of different angles. Which in return has allowed LNATS to develop targeted pencentages of growth around 7/8% per quarter through general information hand outs and basic functionality, too measure the initial time consumption of expanding the projects base layer with regular updates, questions and serveys being given to the community.
