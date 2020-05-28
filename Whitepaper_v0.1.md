@@ -40,9 +40,9 @@ During the development of these products the world has experienced the rise of a
 
 In last June (2019) Facebook released their first white paper for a stablecoin initiative called “Libra” which is aiming to provide financial inclusion and monetary stability to Billions of people around the world. By offering them a digital alternative to traditional forms of money, users of Libra will be able to avoid high fees when sending money overseas and be able to manage their finances on a public blockchain instead of using a Central Bank or Commercial Bank. 
 
-The project has sparked a fire inside of the US Central Banking system and many others around the globe since it’s initial inception last June. Since then regulators from the US, EU, Australia and other regions have stood against the spirit of Libra by imposing tribunal dates and restrictions on how the project is able to operate. In the birth of the commotion Libra News And Talks was born to not only support the initiative, but also to provide information and insights on Libra's rivalling projects, community thoughts and market analysis, through online social platforms. 
+The project had initally sparked a fire inside of the US Central Banking system and many others around the globe since it’s initial inception last June. Since then regulators from the US, EU, Australia and other regions have stood against the spirit of The Libra Blockchain by imposing tribunal dates and restrictions on how the project is able to operate. In the birth of the commotion Libra News And Talks was born to not only support the initiative, but also to provide information and insights on Libra's rivalling projects, community thoughts and market analysis, through online social platforms. 
 
-Focusing on Libra specifically, Libra News and Talks is one of the only news platforms with a focus on Stable Crypto Tokens and Central Bank Digital Currencies all under one roof. 
+Focusing on The Libra Blockchain specifically, Libra News and Talks is one of the only news platforms with a focus on Stable Crypto Tokens and Central Bank Digital Currencies all under one roof. 
 
 The project is being developed to take to market with the following key features: 
 
