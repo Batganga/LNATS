@@ -34,7 +34,7 @@ The following parts of the paper will now provide the reader with an overview of
 
 2: Libra News and Talks. 
 
-Over the course of the last decade technology advancements in financial services and web based products have sky rocketed into the market for the general public. Bringing with it un-stoppable innovations like Cryptocurrencies and public blockchain networks that offer the opportunity, to send money to anyone in the world and at a fraction of the cost of Western Union, IBS (International Bank of Settlements) and other traditional international payment service providers. 
+Over the course of the last decade, technology advancements in financial services and web based products have sky rocketed into the market for the general public. Bringing with them un-stoppable innovations like Cryptocurrencies and public blockchain networks that offer the opportunity, to send money to anyone in the world at a fraction of the cost of traditional financial service providers like Western Union, IBS (International Bank of Settlements) and various other international payment service providers. 
 
 During the development of these products the world has experienced the rise of a new form of asset that is secured and managed by blockchain technology, these assets or as they are mostly referred to crypto tokens or currencies. Allow for users to store, send and receive assets of value across a digital network free from censorship and manipulation, which has attracted a wide variety use cases in finance. Because users are now able to avoid third party custodians and legal constituents when executing a transfer of value, these new networks of public Blockchains have given birth to the rise of a war against the use of fiat currencies and cash as we know it. 
 
