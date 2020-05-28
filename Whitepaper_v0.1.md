@@ -29,3 +29,13 @@ Libra News And Talks will be specifically aimed at providing it’s local and on
 As a project that will be offering online services to its community and users, Libra News and Talks will aim to be become a key player in the future of online and digital journalism, focusing specifically on Facebook’s Libra project, Central Bank Digital Currencies and Stable Crypto Token initiatives such as MakerDAO, Tether, Binance USD and others. The project will look to become a part of the crypto market, by offering news updates, technical support, analysis of public Blockchains along with newsletters and market alerts to, bring forward a new era in financial reviews and technical information, targeted specifically at the financial industry. 
 
 The following parts of the paper will now provide the reader with an overview of the project, it’s key features, goals and objectives, along with the necessary pieces of information and documents for Libra News and Talks to become a functional and economic industry model.
+
+
+
+Libra News and Talks. 
+
+Over the course of the last decade technology advancements in financial services and web based products have sky rocketed into the market for the general public. Bringing with it un-stoppable innovations like Cryptocurrencies and public blockchain networks that offer the opportunity, to send money to anyone in the world and at a fraction of the cost of Western Union, IBS (International Bank of Settlements) and other traditional international payment service providers. 
+
+During the development of these products the world has experienced the rise of a new form of asset that is secured and managed by blockchain technology, these assets or as they are mostly referred to crypto tokens or currencies. Allow for users to store, send and receive assets of value across a digital network free from censorship and manipulation, which has attracted a wide variety use cases in finance. Because users are now able to avoid third party custodians and legal constituents when executing a transfer of value, these new networks of public Blockchains have given birth to the rise of a war against the use of fiat currencies and cash as we know it. 
+
+In last June (2019) Facebook released their white paper for a stablecoin initiative called “Libra” which is aiming to provide financial inclusion and monetary stability to Billions of people around the world. By offering them a digital alternative to traditional forms of money, users of libra will be able to avoid high fees when sending money overseas and be able to manage their finances on a public blockchain instead of using a Central Bank or Commercial Bank. 
