@@ -11,6 +11,9 @@ By providing the latest and most important documentation and information on stab
 The platform is going to be a base foot for all things relating to Libra, CBDC's and Stable Crypto Tokens(SCT's). With topics and analysis ranging from the current state of the market, to investor opportunities and challenges, regualtions and economic loopholes. We will be able to provide and offer the necessary information and resources needed to ensure a stable position in the cryptocurrency market for anyone who is, a general user, investor, speculator or functioning body within the industry. By supporting their knowledge with newsletters, multimedia content presentations and formal publications, Libra News and Talks gives a new look to the age of open banking and public markets with direct access to the latest innovations in fintech and Cryptocurrencies.
 
 Libra News and Talks opertaions have been active since September 2019 on the following social media accounts (Twitter). 
+
 1: @LibraNewsnTalks 
+
 2: @LNATS002 
+
 3: @NewsnTalksLibra 
