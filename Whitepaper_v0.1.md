@@ -15,7 +15,7 @@ The following document is a paper describing the process implementation of build
 
 
 
-Introduction.
+1: Introduction.
 
 The projects initiative is to provide news updates,  educational resources and market analysis on Facebook’s Libra project, Stable Crypto Tokens and Central Bank Digital Currencies from around the world, along with governmental, economic and regualtory concerns around the whole spectrum of the 3 main points of focus.
 
@@ -32,7 +32,7 @@ The following parts of the paper will now provide the reader with an overview of
 
 
 
-Libra News and Talks. 
+2: Libra News and Talks. 
 
 Over the course of the last decade technology advancements in financial services and web based products have sky rocketed into the market for the general public. Bringing with it un-stoppable innovations like Cryptocurrencies and public blockchain networks that offer the opportunity, to send money to anyone in the world and at a fraction of the cost of Western Union, IBS (International Bank of Settlements) and other traditional international payment service providers. 
 
