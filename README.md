@@ -14,7 +14,7 @@ By supporting their knowledge with newsletters, multimedia content presentations
 
 Libra News and Talks opertaions have been active since September 2019 on the following social media accounts (Twitter). 
 
-1: @LibraNewsnTalks 
+1: @LibraNewsnTalks (https://twitter.com/LibraNewsnTalks)
 
 2: @LNATS002 (https://twitter.com/LNATS2020)
 
