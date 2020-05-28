@@ -6,4 +6,4 @@ GitCoin has recently become one of the most spoken about QF models inside of the
 
 In the following statement, you will find the activities and events that was held during the course of May to July 2020 from a number of participants (list below) who all engaged in the Bitfwd GitCoin Grant Campaign 2020. 
 
-Libra News and Talks was created and is headed by a member of the Sydney Crypto Society. Who has specifically chosen to participate in the BitFwd Gitcoin Grant Campaign as a member seeking investment, alliances and partnerships, while also using the opportunity to grow and expand the project 
+Libra News and Talks was created and is headed by a member of the Sydney Crypto Society. Who has specifically chosen to participate in the BitFwd Gitcoin Grant Campaign, as a member seeking investment, alliances and partnerships, while also using the opportunity to grow and expand the project from engaging with the projects in the campaign.
