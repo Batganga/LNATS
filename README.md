@@ -23,3 +23,5 @@ Libra News and Talks opertaions have been active since September 2019 on the fol
 (The accounts linked above are subject to change and should not in anyway be considered a final product or service from Libra News and Talks.)
 
 By using three different accounts, the project has been able to gain access to the potential marketing expenses for the project and also the design of the service from a range of different angles. Which in return has allowed LNATS to develop targeted pencentages of growth of around 7/8% per quarter through, general information hand outs and basic functionality. The initial time consumption of expanding the projects base layer with regular updates, questions and serveys being given to the community currently consists of around, 15-20 hours per week (per person).
+
+To generate more business from the platform(LNATS) has to have a model for fungibility within the flow of operational dynamics. The Libra News and Talks Research Commission is a object specific task force, dedicated to providing the LNATS online news service with the information required to build the project into fully functioning economic entity.
