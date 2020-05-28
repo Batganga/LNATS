@@ -49,7 +49,7 @@ The project is being developed to take to market with the following key features
 •	Social media profiles.
 •	Weekly Newsletters.
 •	Monthly and Quarterly market reports.
-•	Libra News And Talks Domain. 
-• ENS domain. 
+•	Libra News And Talks web2.0 Domain. 
+• ENS web3.0 domain. 
 • Publication Memorandum. 
 • Community serveys. 
