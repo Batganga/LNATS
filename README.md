@@ -12,7 +12,7 @@ The platform is going to be a base foot for all things relating to The Libra Blo
 
 By supporting their knowledge with newsletters, multimedia content presentations and formal publications, Libra News and Talks gives a new look to the age of open banking and public markets with direct access to the latest innovations in fintech and Cryptocurrencies.
 
-Libra News and Talks opertaions have been active since September 2019 on the following social media accounts (Twitter). 
+Libra News and Talks opertaions have been active since September 2019 with the following social media accounts (Twitter). 
 
 1: @LibraNewsnTalks (https://twitter.com/LibraNewsnTalks)
 
