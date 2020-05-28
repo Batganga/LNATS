@@ -46,10 +46,13 @@ Focusing on The Libra Blockchain specifically, Libra News and Talks is one of th
 
 The project is being developed to take to market with the following key features: 
 
-•	Social media profiles.
+•	Social Media Profiles.
 •	Weekly Newsletters.
-•	Monthly and Quarterly market reports.
+•	Monthly and Quarterly Market Reports.
 •	Libra News And Talks web2.0 Domain. 
 • ENS web3.0 domain. 
 • Publication Memorandum. 
-• Community serveys. 
+• Community Serveys.
+• Subject Specific Manifests.  
+• Technical Support. 
+• Online Forum and Chatroom.
