@@ -39,3 +39,14 @@ Over the course of the last decade, technology advancements in financial service
 During the development of these products the world has experienced the rise of a new form of asset that is secured and managed by blockchain technology. These assets or as they are mostly referred to crypto tokens or currencies. Allow for users to store, send and receive assets of value across a distributed digital network free from censorship and manipulation. Which has attracted a wide variety use cases in finance. Because users are now able to avoid third party custodians, and legal constituents when executing a transfer of value. These new networks of public/private Blockchains and cryptocurrencies have given birth to the rise of a war, against the use of fiat currencies and cash as we know it. 
 
 In last June (2019) Facebook released their first white paper for a stablecoin initiative called “Libra” which is aiming to provide financial inclusion and monetary stability to Billions of people around the world. By offering them a digital alternative to traditional forms of money, users of Libra will be able to avoid high fees when sending money overseas and be able to manage their finances on a public blockchain instead of using a Central Bank or Commercial Bank. 
+
+The project has sparked a fire inside of the US Central Banking system and many others around the globe since it’s initial inception last June. Since then regulators from the US, EU, Australia and other regions have stood against the spirit of Libra by imposing tribunal dates and restrictions on how the project is able to operate. In the birth of the commotion Libra News And Talks was born to not only support the initiative, but also to provide information and insights on Libra's rivalling projects, community thoughts and market analysis, through online social platforms. 
+
+Focusing on Libra specifically, Libra News and Talks is one of the only news platforms with a focus on Stable Crypto Tokens and Central Bank Digital Currencies all under one roof. 
+
+The project is being developed to take to market with the following key features: 
+
+•	Social media profiles.
+•	Weekly Newsletters.
+•	Monthly and Quarterly market reports.
+•	Libra News And Talks Domain. 
