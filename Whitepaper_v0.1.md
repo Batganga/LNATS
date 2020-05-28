@@ -50,3 +50,6 @@ The project is being developed to take to market with the following key features
 •	Weekly Newsletters.
 •	Monthly and Quarterly market reports.
 •	Libra News And Talks Domain. 
+• ENS domain. 
+• Publication Memorandum. 
+• Community serveys. 
