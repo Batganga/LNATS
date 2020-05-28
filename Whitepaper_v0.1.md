@@ -55,4 +55,4 @@ The project is being developed to take to market with the following key features
 • Community Serveys.
 • Subject Specific Manifests.  
 • Technical Support. 
-• Online Forum and Chatroom.
+• Online Forum and Messenger Chatroom.
