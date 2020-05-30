@@ -24,6 +24,6 @@ Some of the most Frequently Asked Questions about the Libra News and Talks proje
 
 Other than weekly updates and revised transcripts each project has taken its own direction in terms of their own campaign. The alumni associates along with BitFwd professionals are a group of working entrepreneurs subject blockchain technology and cryptocurrencies.
 
-Each of them with their own projects and unique backgrounds. List here: •Nuts finance, •SheDAO, •DAOism, ......
+Each of them with their own projects and unique backgrounds. List here: • Nuts finance, • SheDAO, • DAOism, ......
 
 
