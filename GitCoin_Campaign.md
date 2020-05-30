@@ -21,3 +21,7 @@ Some of the most Frequently Asked Questions about the Libra News and Talks proje
 4) Focusing on the global economy as a whole allows the platform to cover a wide range of different topics, how do you plan to manage the workload? 
 
 5) How are you going to distribute publications, manifests and market reports?
+
+Other than weekly updates and revised transcripts each project has taken its own direction in terms of their own campaign. The alumni associates along with BitFwd professionals are a group of working entrepreneurs subject blockchain technology and cryptocurrencies.
+
+Each of them with their own projects and unique backgrounds. 
