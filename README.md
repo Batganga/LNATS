@@ -18,7 +18,9 @@ Libra News and Talks opertaions have been active since September 2019 with the f
 
 2: @LNATS002 (https://twitter.com/LNATS2020)
 
-3: @NewsnTalksLibra (https://twitter.com/NewsnTalksLibra)
+3: @NewsnTalksLibra (https://twitter.com/NewsnTalksLibra) 
+
+4: @LNATS203 (https://mobile.twitter.com/LNATS203)
 
 (The accounts linked above are subject to change and should not in anyway be considered a final product or service from Libra News and Talks.)
 
